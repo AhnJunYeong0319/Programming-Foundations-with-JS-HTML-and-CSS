@@ -1,0 +1,19 @@
+body {
+    background-color : 
+  #edd1a1;
+  }
+  
+  h1 {
+    font-family : serif;
+  }
+  
+  h2 {
+    font-family : serif;
+  }
+  
+  canvas {
+    width : 400px;
+    height : 300px;
+    margin : 10px;
+    border : 1px solid gray;
+  }

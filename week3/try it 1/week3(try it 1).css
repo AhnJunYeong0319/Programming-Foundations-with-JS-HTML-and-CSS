@@ -1,0 +1,33 @@
+h1 {
+    font-family : serif;
+  }
+  
+  div {
+    font-family : serif;
+  }
+  
+  #div1 {
+    background-color : red;
+    width: 180px;
+    font-size : 18px;
+    border : 10px white lightgray;
+    padding:20px;
+    margin : 5px;
+  }
+  
+  #div2 {
+    background-color : lightsteelblue;
+    width: 180px;
+    font-size : 18px;
+    border : 10px white lightgray;
+    padding:20px;
+    margin : 5px;
+  }
+  
+  #button1 {
+    margin : 70px;
+  }
+  
+  #button2 {
+    margin : 70px;
+  }
